@@ -1,2 +1,2 @@
 # vas-test
-Sample GIT repo
+Sample GIT repo test
